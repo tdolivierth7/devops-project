@@ -27,3 +27,4 @@ This repo is a demonstration of Continuous Delivery of a static website to EC2 i
 # Project Resources 
 
 1. The CloudFormation template is available [here](https://s3.amazonaws.com/www.devopsessentialsaws.com/samples/ec2/pipeline.yml).
+
